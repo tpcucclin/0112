@@ -1,6 +1,7 @@
 ## ChatGPT
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 
 ## Youtube
 - [AI時代，你跟上了嗎？｜李宏毅｜人文講堂｜完整版 20231209](https://www.youtube.com/watch?v=iqaiPyvDD4Y)
