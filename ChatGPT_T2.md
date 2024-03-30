@@ -27,3 +27,16 @@
 範例:
 > 用列點的方式總結出**十**個**量子力學**重點。
 ---
+
+情境: ChatGPT可信嗎？學術文獻的查證與引用
+---
+模板:
+> 探討**某主題對某事請的影響**
+
+範本:
+> 如果想探討心跳對健康的影醒，我可以參襖哪些中文的期刊雜誌文章? 請用繁體中文回答
+
+> 請提供 10 個適用的搜尋關鍵字
+
+> I am currently working a research project that requires the interest rates and prices of bounds and goods in 13th and 14th centrury Venice. How do I find the resources?
+
